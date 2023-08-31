@@ -1,3 +1,4 @@
+package gameFiles;
 public class Trainer {
     private String trainerName;
     private Pokemon[] myPokemons;

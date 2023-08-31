@@ -1,3 +1,4 @@
+package gameFiles;
 public class Pokemon {
     private String pokemonName;
     private String pokemonType;

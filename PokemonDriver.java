@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+import gameFiles.Pokemon;
+import gameFiles.PokemonList;
+import gameFiles.Trainer;
+
 public class PokemonDriver {
     //static objects
     static Scanner scan = new Scanner(System.in);
